@@ -1,6 +1,6 @@
 👋 Hi, I’m @gyirehcaroline
 
-👀 I’m interested in software development, web development, and mobile app development.
+👀 I’m interested in software development, web development, machine learning and mobile app development.
 
 🌱 I’m currently learning various programming languages and frameworks, including Python, JavaScript, and React.
 
