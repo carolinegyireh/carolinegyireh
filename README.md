@@ -1,4 +1,4 @@
-👋 Hi, I’m @gyirehcaroline
+👋 Hi, I’m @GyirehCaroline
 
 👀 I’m interested in software development, web development, machine learning and mobile app development.
 
