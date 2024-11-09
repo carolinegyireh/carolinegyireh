@@ -1,11 +1,15 @@
-👋 Hi, I’m @GyirehCaroline
+# 👋 Hi, I’m Gyireh Caroline
 
-👀 I’m interested in software development, web development, machine learning and mobile app development.
+### **👀 Interests:** 
+- Web Development **|** Machine Learning **|** Mobile App Development **|** Cybersecurity
+  
+### **🌱 Currently Learning:** 
+- Machine Learning Pipelines **|** JavaScript | Java
+  
+### **🤝 Open to Collaborate On:** 
+- Open-source Projects **|** Predictive Analytics **|** Classification **|** Innovative Web Applications
 
-🌱 I’m currently learning various programming languages and frameworks, including Python, JavaScript, and React.
 
-💞️ I’m looking to collaborate on open-source projects and innovative web applications.
 
-📫 How to reach me:
-
-Email: carolinegyireh801@gmail.com
+### **📫 You Can Kindly Reach Out On:** 
+- **Email** [carolinegyireh801@gmail.com](mailto:carolinegyireh801@gmail.com)
