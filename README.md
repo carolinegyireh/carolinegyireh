@@ -12,4 +12,4 @@
 
 
 ### **📫 You Can Kindly Reach Out On:** 
-- **Email** [carolinegyireh801@gmail.com](mailto:carolinegyireh801@gmail.com)
+- **Email** [c.gyireh1@gmail.com](mailto:c.gyireh1@gmail.com)
