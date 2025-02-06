@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Gyireh Caroline
 
 ### **👀 Interests:** 
-- Web Development **|** Machine Learning **|** Mobile App Development **|** Cybersecurity
+- ** Machine Learning **|Web Development **|** Mobile App Development **|** Cybersecurity
   
 ### **🌱 Currently Learning:** 
 - Machine Learning Pipelines **|** JavaScript | Java
