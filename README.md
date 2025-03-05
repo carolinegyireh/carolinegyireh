@@ -1,15 +1,13 @@
-# 👋 Hi, I’m Gyireh Caroline
+# 👋 Hi, I’m **Gyireh Caroline**
 
-### **👀 Interests:** 
-- ** Machine Learning **|Web Development **|** Mobile App Development **|** Cybersecurity
-  
-### **🌱 Currently Learning:** 
-- Machine Learning Pipelines **|** JavaScript | Java
-  
-### **🤝 Open to Collaborate On:** 
-- Open-source Projects **|** Predictive Analytics **|** Classification **|** Innovative Web Applications
+### **💡 Focus Areas:**  
+- Final Year **Software Engineering** student specializing in **Machine Learning**.
 
+### **🌱 Currently Learning:**  
+- **Unsupervised Learning** | Exploring the world of unsupervised models and techniques.
 
+### **🤝 Open to Collaborate On:**  
+- Open-source **Projects** | Machine Learning **Solutions** | Data-driven **Challenges**.
 
-### **📫 You Can Kindly Reach Out On:** 
+### **📫 To Reach Out, Contact:**  
 - **Email:** [c.gyireh1@gmail.com](mailto:c.gyireh1@gmail.com)
