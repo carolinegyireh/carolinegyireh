@@ -11,3 +11,12 @@
 
 ### **📫 To Reach Out, Contact:**  
 - **Email:** [c.gyireh1@gmail.com](mailto:c.gyireh1@gmail.com)
+
+
+<br>
+
+### ✍ Byte-sized Wisdom
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=carolinegyireh&icon=0&color=0)](https://visitcount.itsvg.in)
