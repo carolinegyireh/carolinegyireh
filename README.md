@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Gyireh Caroline**
+# Hi 👋 , I’m **Gyireh Caroline**
 
 ### **💡 Focus Areas:**  
 - Final Year **Software Engineering** student specializing in **Machine Learning**.
@@ -17,6 +17,4 @@
 
 ### ✍ Byte-sized Wisdom
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=carolinegyireh&icon=0&color=0)](https://visitcount.itsvg.in)
