@@ -1,20 +1,30 @@
-# Hi 👋 , I’m **Gyireh Caroline**
+# 👋 Hi, I’m Gyireh Caroline
 
-### **💡 Focus Areas:**  
-- Final Year **Software Engineering** student specializing in **Machine Learning**.
-
-### **🌱 Currently Learning:**  
-- **Unsupervised Learning** | Exploring the world of unsupervised models and techniques.
-
-### **🤝 Open to Collaborate On:**  
-- Open-source **Projects** | Machine Learning **Solutions** | Data-driven **Challenges**.
-
-### **📫 To Reach Out, Contact:**  
-- **Email:** [c.gyireh1@gmail.com](mailto:c.gyireh1@gmail.com)
+🎓 **Final-Year Software Engineering Student**  
+💻 Specializing in **Machine Learning & AI**
 
 
-<br>
+## About Me
+
+I'm a machine learning engineer currently completing my degree in Software Engineering. I’m passionate about building meaningful, data-driven solutions.
+
+Through my academic and personal projects, I’ve developed strong skills in:
+- Python, TensorFlow, and scikit-learn
+- Web development
+- Problem-solving and end-to-end ML model lifecycle
+
+
+## Looking to Collaborate
+
+I’m actively seeking opportunities to contribute to:
+- Open-source ML or software projects  
+- ML/AI internships or entry-level roles  
+- Learning, growth, and impactful collaborations
+
+## Contact Me
+
+📧 Email: [c.gyireh1@gmail.com](mailto:c.gyireh1@gmail.com)
 
 ### ✍ Byte-sized Wisdom
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
